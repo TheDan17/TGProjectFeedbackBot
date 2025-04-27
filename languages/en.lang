@@ -1,0 +1,75 @@
+{
+    # ADMIN STRINGS
+    "GreetingTextAdmin": "Welcome to the DIAMONDLOCKED system\!",
+    "GreetingButtonAdmin": "Enter in admin profile",
+
+
+    # PUBLIC STRINGS
+    "StartCommandPublic": "Welcome to the DIAMONDLOCKED system\!",
+    "CreateFormGreeting": "Создавая анкету в нашей системе, вы подтверждаете, "
+                           "что она будет храниться во Временном Хранилище ровно до того момента, "
+                           "пока вы не удалите свою анкету\. "
+                           "Также ID вашего аккаунта будет использоваться в качестве ID вашей анкеты\.",
+    "CreateFormConfirmButton": "Yes, I guess",
+
+    "QuestionOneText": "1\. What devices you have?",
+    "QuestionTwoText": "2\. What functions you are planning to test in our apps?",
+    "QuestionThreeText": "3\. How will you report bugs, your wishes regarding the application and reports?",
+    "QuestionFourText": "4\. Do you agree to respect confidentiality and not to disseminate information about the application under test?",
+    "QuestionFiveText": "5\. Do you have any experience of participating in application testing?",
+    "QuestionSixText": "6\. Additional comment\.",
+
+    "QuestionOneCommentText": "(Smartphone company and it's full model)",
+    "QuestionThreeVariantsText": "Answer variants: \n"
+                               "1) In the telegram feedback channel \n"
+                               "2) By e-mail (diamondimpression@gmail.com)",
+    "QuestionTwoVariantsText": "Answer variants: \n"
+                                 "1) Interface \n"
+                                 "2) Working speed \n"
+                                 "3) Stability \n"
+                                 "4) Security \n"
+                                 "5) Functionality \n"
+                                 "6) Other",
+    "QuestionSixCommentText": "(If you want, write additional information, attach a comment or ask a question)",
+
+    "CompleteCreateFormText": "Creating form is over",
+    "CancelCreateFormText": "Your form was deleted",
+
+    "ToMenu": "You are returned to the main menu\.",
+    "NotEnoughCommand": "We didn't find such command\. "
+                        "If you want to use main menu item, use command /menu or /cancel, "
+                        "to go there\.",
+
+    "CreateFormKeyboardButton": "Create form",
+    "ViewFormKeyboardButton": "View your form",
+    "ViewAnotherFormKeyboardButton": "View another forms by ID",
+    "DeleteFormKeyboardButton": "Delete form",
+
+    "NotFormToDelete": "You can't delete something that doesn't exist\. :)",
+    "DeleteWarning": "Are you sure you want to delete your form? Recovery will be impossible",
+    "YesDeleteKeyboardButton": "Yes, I want",
+    "NoDeleteKeyboardButton": "No, cancel this",
+    "DeleteFormResultText": "Your form was deleted",
+
+    "GoodByeText": "Your data was delete from our databases\. Bye\!",
+
+    # COMMON STRINGS
+    "ForPublicFormHeaderText": "Form by user",
+    "NotEnoughFormText": "A form haven't created yet",
+    "NotEnoughUserText": "This user not exist in our system",
+    "EnterIdText": "Please enter the ID of form:",
+    "WrongIdInputText": "Your input is wrong\!",
+
+    "ChangeLanguageText": "Choose language:",
+    "ChangeLanguageKeyboardButton": "Change bot language",
+    "LanguageHeaderText": "Language",
+    "RussianLangText": "Русский",
+    "EnglishLangText": "English",
+
+    "ViewedHeaderText": "Status",
+    "NotViewedText": "Not viewed",
+    "RejectedText": "Denied",
+    "AcceptedText": "Accepted",
+
+    "YourIdText": "Your ID"
+}

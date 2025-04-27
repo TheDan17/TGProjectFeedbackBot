@@ -1,0 +1,73 @@
+{
+    # ADMIN STRINGS
+    "GreetingTextAdmin": "Добро пожаловать в систему DIAMONDREQUEST\!",
+    "GreetingButtonAdmin": "Войти в профиль администратора",
+
+
+    # PUBLIC STRINGS
+    "StartCommandPublic": "Приветствуем Вас в нашей системе DIAMONDREQUEST\!",
+    "CreateFormGreeting": "После создания Ваша анкета будет храниться у нас до того момента, пока вы её не удалите\. \n"
+                           "\!Внимание\! Если вы отмените создание анкеты, она будет стёрта\.",
+    "CreateFormConfirmButton": "Да, я согласен",
+
+    "QuestionOneText": "1. Какое у вас устройство?",
+    "QuestionTwoText": "2. Какие функции вы планируете протестировать в наших приложениях?",
+    "QuestionThreeText": "3. Как вы будете сообщать о найденных ошибках, ваших пожеланиях касательно приложения и отправлять отчеты?",
+    "QuestionFourText": "4. Согласны ли вы соблюдать конфиденциальность и самостоятельно не распространять информацию о тестируемом приложении?",
+    "QuestionFiveText": "5. Есть ли у вас опыт участия в тестировании приложений?",
+    "QuestionSixText": "6. Дополнительный комментарий.",
+
+    "QuestionOneCommentText": "(Компания смартфона и его полная модель)",
+    "QuestionThreeVariantsText": "Варианты ответа:\n"
+                               "1) В канале обратной связи телеграмм\n"
+                               "2) Письмом на почту (diamondimpression@gmail.com)",
+    "QuestionTwoVariantsText": "Варианты ответа: \n"
+                                 "1) Интерфейс \n"
+                                 "2) Скорость работы \n"
+                                 "3) Стабильность \n"
+                                 "4) Безопасность \n"
+                                 "5) Функциональность \n"
+                                 "6) Другие",
+    "QuestionSixCommentText": "(При желании кандидата написать дополнительную информацию, прикрепить комментарий или задать вопрос)",
+
+    "CompleteCreateFormText": "Создание анкеты завершено",
+    "CancelCreateFormText": "Ваша анкета удалена",
+
+    "ToMenu": "Вы возвращены в главное меню\.",
+    "NotEnoughCommand": "Мы не нашли такой доступной команды\. "
+                        "Если хотите использовать какой-то пункт меню, то используйте команду /menu или /cancel, "
+                        "чтобы перейти туда\.",
+
+    "CreateFormKeyboardButton": "Создать анкету",
+    "ViewFormKeyboardButton": "Посмотреть свою анкету",
+    "ViewAnotherFormKeyboardButton": "Посмотреть другие анкеты по ID",
+    "DeleteFormKeyboardButton": "Удалить анкету",
+
+    "NotFormToDelete": "Нельзя удалить то, чего не существует\. :)",
+    "DeleteWarning": "Вы уверены, что хотите удалить свою анкету? Восстановление будет невозможно",
+    "YesDeleteKeyboardButton": "Да, я хочу",
+    "NoDeleteKeyboardButton": "Нет, отмена",
+    "DeleteFormResultText": "Ваша анкета удалена",
+
+    "GoodByeText": "Вы удалены из системы\. Удачи вам\!",
+
+    # COMMON STRINGS
+    "ForPublicFormHeaderText": "Анкета пользователя",
+    "NotEnoughFormText": "Анкета ещё не создана",
+    "NotEnoughUserText": "Такой пользователь не найден в DIAMONDREQUEST",
+    "EnterIdText": "Введите ID искомого пользователя:",
+    "WrongIdInputText": "Вы неправильно ввели ID\!",
+
+    "ChangeLanguageText": "Выберите язык:",
+    "ChangeLanguageKeyboardButton": "Сменить язык бота",
+    "LanguageHeaderText": "Язык",
+    "RussianLangText": "Русский",
+    "EnglishLangText": "English",
+
+    "ViewedHeaderText": "Статус",
+    "NotViewedText": "Не просмотрена",
+    "RejectedText": "Отказано",
+    "AcceptedText": "Принята",
+
+    "YourIdText": "Ваш ID"
+}
